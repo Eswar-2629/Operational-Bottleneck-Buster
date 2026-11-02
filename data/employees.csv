@@ -1,0 +1,22 @@
+employee_id,full_name,email,department,start_date,employment_type,offer_signed,identity_document,background_check,bank_details
+BL-1001,Ava Patel,ava.patel@brightpath.example,Operations,2026-11-06,Full-time,yes,yes,yes,yes
+BL-1002,Marcus Chen,marcus.chen@brightpath.example,Engineering,2026-11-09,Full-time,yes,yes,yes,no
+BL-1003,Sofia Ramirez,sofia.ramirez@brightpath.example,Sales,2026-11-04,Full-time,yes,no,yes,yes
+BL-1004,Noah Williams,noah.williams@brightpath.example,Finance,2026-11-18,Full-time,yes,yes,yes,yes
+BL-1005,Emily Thompson,emily.thompson@brightpath.example,Marketing,2026-11-12,Contractor,yes,yes,no,yes
+BL-1006,Liam Brown,liam.brown@brightpath.example,Engineering,2026-12-01,Full-time,yes,yes,yes,yes
+BL-1007,Isabella Davis,isabella.davis@brightpath.example,Customer Success,2026-11-06,Full-time,yes,yes,yes,no
+BL-1008,Ethan Wilson,ethan.wilson@brightpath.example,Operations,2026-11-20,Full-time,yes,yes,yes,yes
+BL-1009,Mia Garcia,mia.garcia@brightpath.example,People,2026-11-05,Full-time,no,no,no,no
+BL-1010,Lucas Martin,lucas.martin@brightpath.example,Engineering,2026-11-23,Contractor,yes,yes,yes,yes
+BL-1011,Amelia Moore,amelia.moore@brightpath.example,Sales,2026-11-11,Full-time,yes,yes,yes,no
+BL-1012,James Taylor,james.taylor@brightpath.example,Finance,2026-12-08,Full-time,yes,yes,yes,yes
+BL-1013,Hannah Anderson,hannah.anderson@brightpath.example,Marketing,2026-11-07,Full-time,yes,yes,no,yes
+BL-1014,Henry Thomas,henry.thomas@brightpath.example,Engineering,2026-11-30,Full-time,yes,yes,yes,yes
+BL-1015,Evelyn Jackson,evelyn.jackson@brightpath.example,Operations,2026-11-16,Contractor,yes,no,yes,no
+BL-1016,Daniel White,daniel.white@brightpath.example,Customer Success,2026-11-13,Full-time,yes,yes,yes,yes
+BL-1017,Harper Harris,harper.harris@brightpath.example,People,2026-11-09,Full-time,no,yes,yes,yes
+BL-1018,Alexander Lewis,alexander.lewis@brightpath.example,Sales,2026-11-27,Full-time,yes,yes,yes,yes
+BL-1019,Charlotte Lee,charlotte.lee@brightpath.example,Engineering,2026-11-03,Full-time,yes,yes,yes,no
+BL-1020,Benjamin Walker,benjamin.walker@brightpath.example,Finance,2026-12-15,Full-time,yes,yes,yes,yes
+BL-1021,Invalid Person,not-an-email,Operations,not-a-date,Full-time,yes,yes,yes,yes

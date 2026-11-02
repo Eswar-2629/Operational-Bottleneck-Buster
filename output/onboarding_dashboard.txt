@@ -1,0 +1,35 @@
+OPERATIONAL BOTTLENECK BUSTER - ONBOARDING DASHBOARD
+==========================================================
+As of: 2026-11-02
+Processed records: 20
+Invalid records: 1
+
+STATUS SUMMARY
+----------------------------------------------------------
+Ready:              10
+Needs follow-up:     5
+Blocked:             5
+
+TIME SAVINGS FOR THIS BATCH
+----------------------------------------------------------
+Manual time:         6.00 hours
+Automated time:      1.42 hours
+Time saved:          4.58 hours
+Work reduction:     76.4%
+
+ACTION QUEUE
+----------------------------------------------------------
+[Urgent] Charlotte Lee | Needs follow-up | Missing: Bank details
+[Urgent] Sofia Ramirez | Blocked | Missing: Identity document
+[Urgent] Mia Garcia | Blocked | Missing: Offer signed, Identity document, Background check, Bank details
+[Urgent] Isabella Davis | Needs follow-up | Missing: Bank details
+[Urgent] Hannah Anderson | Blocked | Missing: Background check
+[Urgent] Marcus Chen | Needs follow-up | Missing: Bank details
+[Urgent] Harper Harris | Needs follow-up | Missing: Offer signed
+[High] Amelia Moore | Needs follow-up | Missing: Bank details
+[High] Emily Thompson | Blocked | Missing: Background check
+[High] Evelyn Jackson | Blocked | Missing: Identity document, Bank details
+
+VALIDATION ERRORS
+----------------------------------------------------------
+Row 22: Row 22: start_date must use YYYY-MM-DD

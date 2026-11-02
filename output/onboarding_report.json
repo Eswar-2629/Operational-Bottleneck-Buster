@@ -1,0 +1,236 @@
+{
+  "as_of": "2026-11-02",
+  "processed_records": 20,
+  "invalid_records": 1,
+  "status_counts": {
+    "Ready": 10,
+    "Needs follow-up": 5,
+    "Blocked": 5
+  },
+  "priority_counts": {
+    "Urgent": 8,
+    "High": 4,
+    "Standard": 8
+  },
+  "records": [
+    {
+      "employee_id": "BL-1001",
+      "full_name": "Ava Patel",
+      "department": "Operations",
+      "start_date": "2026-11-06",
+      "priority": "Urgent",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1002",
+      "full_name": "Marcus Chen",
+      "department": "Engineering",
+      "start_date": "2026-11-09",
+      "priority": "Urgent",
+      "status": "Needs follow-up",
+      "missing_items": [
+        "Bank details"
+      ]
+    },
+    {
+      "employee_id": "BL-1003",
+      "full_name": "Sofia Ramirez",
+      "department": "Sales",
+      "start_date": "2026-11-04",
+      "priority": "Urgent",
+      "status": "Blocked",
+      "missing_items": [
+        "Identity document"
+      ]
+    },
+    {
+      "employee_id": "BL-1004",
+      "full_name": "Noah Williams",
+      "department": "Finance",
+      "start_date": "2026-11-18",
+      "priority": "Standard",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1005",
+      "full_name": "Emily Thompson",
+      "department": "Marketing",
+      "start_date": "2026-11-12",
+      "priority": "High",
+      "status": "Blocked",
+      "missing_items": [
+        "Background check"
+      ]
+    },
+    {
+      "employee_id": "BL-1006",
+      "full_name": "Liam Brown",
+      "department": "Engineering",
+      "start_date": "2026-12-01",
+      "priority": "Standard",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1007",
+      "full_name": "Isabella Davis",
+      "department": "Customer Success",
+      "start_date": "2026-11-06",
+      "priority": "Urgent",
+      "status": "Needs follow-up",
+      "missing_items": [
+        "Bank details"
+      ]
+    },
+    {
+      "employee_id": "BL-1008",
+      "full_name": "Ethan Wilson",
+      "department": "Operations",
+      "start_date": "2026-11-20",
+      "priority": "Standard",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1009",
+      "full_name": "Mia Garcia",
+      "department": "People",
+      "start_date": "2026-11-05",
+      "priority": "Urgent",
+      "status": "Blocked",
+      "missing_items": [
+        "Offer signed",
+        "Identity document",
+        "Background check",
+        "Bank details"
+      ]
+    },
+    {
+      "employee_id": "BL-1010",
+      "full_name": "Lucas Martin",
+      "department": "Engineering",
+      "start_date": "2026-11-23",
+      "priority": "Standard",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1011",
+      "full_name": "Amelia Moore",
+      "department": "Sales",
+      "start_date": "2026-11-11",
+      "priority": "High",
+      "status": "Needs follow-up",
+      "missing_items": [
+        "Bank details"
+      ]
+    },
+    {
+      "employee_id": "BL-1012",
+      "full_name": "James Taylor",
+      "department": "Finance",
+      "start_date": "2026-12-08",
+      "priority": "Standard",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1013",
+      "full_name": "Hannah Anderson",
+      "department": "Marketing",
+      "start_date": "2026-11-07",
+      "priority": "Urgent",
+      "status": "Blocked",
+      "missing_items": [
+        "Background check"
+      ]
+    },
+    {
+      "employee_id": "BL-1014",
+      "full_name": "Henry Thomas",
+      "department": "Engineering",
+      "start_date": "2026-11-30",
+      "priority": "Standard",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1015",
+      "full_name": "Evelyn Jackson",
+      "department": "Operations",
+      "start_date": "2026-11-16",
+      "priority": "High",
+      "status": "Blocked",
+      "missing_items": [
+        "Identity document",
+        "Bank details"
+      ]
+    },
+    {
+      "employee_id": "BL-1016",
+      "full_name": "Daniel White",
+      "department": "Customer Success",
+      "start_date": "2026-11-13",
+      "priority": "High",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1017",
+      "full_name": "Harper Harris",
+      "department": "People",
+      "start_date": "2026-11-09",
+      "priority": "Urgent",
+      "status": "Needs follow-up",
+      "missing_items": [
+        "Offer signed"
+      ]
+    },
+    {
+      "employee_id": "BL-1018",
+      "full_name": "Alexander Lewis",
+      "department": "Sales",
+      "start_date": "2026-11-27",
+      "priority": "Standard",
+      "status": "Ready",
+      "missing_items": []
+    },
+    {
+      "employee_id": "BL-1019",
+      "full_name": "Charlotte Lee",
+      "department": "Engineering",
+      "start_date": "2026-11-03",
+      "priority": "Urgent",
+      "status": "Needs follow-up",
+      "missing_items": [
+        "Bank details"
+      ]
+    },
+    {
+      "employee_id": "BL-1020",
+      "full_name": "Benjamin Walker",
+      "department": "Finance",
+      "start_date": "2026-12-15",
+      "priority": "Standard",
+      "status": "Ready",
+      "missing_items": []
+    }
+  ],
+  "errors": [
+    {
+      "row": 22,
+      "error": "Row 22: start_date must use YYYY-MM-DD"
+    }
+  ],
+  "time_savings": {
+    "manual_minutes": 360,
+    "automated_minutes": 85.0,
+    "minutes_saved": 275.0,
+    "percent_reduction": 76.4,
+    "manual_hours": 6.0,
+    "automated_hours": 1.42,
+    "hours_saved": 4.58
+  }
+}
